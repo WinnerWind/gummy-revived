@@ -1,5 +1,7 @@
 # Gummy Revived
 ## A revival of the amazing (but now defunct) Gummy theme by Kneecaps
+![preview_dark]()
+![preview_light]()
 
 This is a attempt at reviving the Gummy Theme, which focuses on a clean design language, celebrating minimalism.
 
