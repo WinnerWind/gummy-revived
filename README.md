@@ -1,7 +1,7 @@
 # Gummy Revived
 ## A revival of the amazing (but now defunct) Gummy theme by Kneecaps
-![preview_dark]()
-![preview_light]()
+![preview_dark](https://github.com/WinnerWind/gummy-revived/blob/main/preview_dark.png?raw=true)
+![preview_light](https://github.com/WinnerWind/gummy-revived/blob/main/preview_light.png?raw=true)
 
 This is a attempt at reviving the Gummy Theme, which focuses on a clean design language, celebrating minimalism.
 
