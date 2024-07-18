@@ -966,6 +966,23 @@ body {
 /* CUSTOM CSS
 */
 
+
+/* Make all headings the same font for consistency */
+body {
+    --h1-font: 'Peace Sans';
+    --h2-font: 'Peace Sans';
+    --h3-font: 'Peace Sans';
+    --h4-font: 'Peace Sans';
+    --h5-font: 'Peace Sans';
+    --h6-font: 'Peace Sans';
+    --h1-weight: 00;
+    --h2-weight: 00;
+    --h3-weight: 000;
+    --h4-weight: 00;
+    --h5-weight: 00;
+    --h6-weight: 00;
+}
+
 .workspace-tabs .workspace-leaf {
     background-color: transparent;
 }
